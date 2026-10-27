@@ -1,0 +1,17 @@
+{
+  "name": "tauri-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo todo",
+    "build": "echo todo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tauri-apps/cli": "3.0.0-alpha.5"
+  }
+}
